@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Drift on Drift: a journal of roamings in the margins of archaeology</title>
-    <link>https://dmlekuz.github.io/drift/</link>
+    <link>http://localhost:1313/drift/</link>
     <description>Recent content in Drift on Drift: a journal of roamings in the margins of archaeology</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Drift is an open access journal. ISSN 1363-5387. DOI: 10.11141/issn.1363-5387. Email: drift at drift.org.</copyright>
     <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://dmlekuz.github.io/drift/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/drift/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>At the Edge of Discourse: An essay on the subjectivity in landscape</title>
-      <link>https://dmlekuz.github.io/drift/papers/edge_discourse/</link>
+      <link>http://localhost:1313/drift/papers/edge_discourse/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://dmlekuz.github.io/drift/papers/edge_discourse/</guid>
+      <guid>http://localhost:1313/drift/papers/edge_discourse/</guid>
       <description>&lt;p&gt;The landscape is something that relaltional to the subject inhabiting it. My exploration of this relation is heavily influenced by Lacanaian psychoanalysis. Psychoanalysis can be defined as a discipline that provides basic coordinates on subjects’ relation to the Other, to some outside structure. Lacanian’s point of departure is that humans are speaking beings. This makes us alienated from the world because our relation to the world and others is mediated by language. Thus, humans inhabit the landscape as embodied but also as speaking and thinking subjects.&#xA;Lacan sees the subject’s relation to the world through three interlocking registers: Imaginary, Symbolic and Real.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Technical is symbolic</title>
-      <link>https://dmlekuz.github.io/drift/papers/technical_symbolic/</link>
+      <link>http://localhost:1313/drift/papers/technical_symbolic/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://dmlekuz.github.io/drift/papers/technical_symbolic/</guid>
+      <guid>http://localhost:1313/drift/papers/technical_symbolic/</guid>
       <description>&lt;p&gt;A new focus on scientific methods, quantitative modelling, and Big Data, which characterise the “third scientific revolution” in archaeology (Kristiansen 2014), has expanded the boundaries of what we humans can ever know about the past.&lt;/p&gt;&#xA;&lt;p&gt;However, aDNA analyses, Big Data, and evolutionary models reduce humans to either genes, numbers, or simply another animal species. What makes humans specific and archaeology a unique discipline (rather than, say, palaeontology) is a certain excess, a surplus that we humans have and cannot be studied by scientific methods. Language.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Board</title>
-      <link>https://dmlekuz.github.io/drift/editorial/</link>
+      <link>http://localhost:1313/drift/editorial/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dmlekuz.github.io/drift/editorial/</guid>
+      <guid>http://localhost:1313/drift/editorial/</guid>
       <description>&lt;p&gt;Kristin Armstrong Oma&lt;/p&gt;&#xA;&lt;p&gt;Dimitrij Mlekuž Vrhovnik&lt;/p&gt;</description>
     </item>
     <item>
       <title>For authors</title>
-      <link>https://dmlekuz.github.io/drift/authors/</link>
+      <link>http://localhost:1313/drift/authors/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dmlekuz.github.io/drift/authors/</guid>
+      <guid>http://localhost:1313/drift/authors/</guid>
       <description>&lt;p&gt;Please send your paper to &lt;a href=&#34;mailto:drift@gmail.com&#34;&gt;drift@gmail.com&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Manifesto</title>
-      <link>https://dmlekuz.github.io/drift/manifesto/</link>
+      <link>http://localhost:1313/drift/manifesto/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dmlekuz.github.io/drift/manifesto/</guid>
+      <guid>http://localhost:1313/drift/manifesto/</guid>
       <description>&lt;p&gt;Drift is a journal of roamings in the margins of archaeology.&lt;/p&gt;&#xA;&lt;p&gt;Drift is not a blog. Drift is not a provocation. Drift is a dead serious archaeological publication.&lt;/p&gt;&#xA;&lt;p&gt;Drift is necessary because of the increasingly predictable and monotonous experience of archaeology.&lt;/p&gt;&#xA;&lt;p&gt;Drift is a revolutionary journal that combats thße malaise and boredom of current archaeology, as well as its overproduction and predictability.&lt;/p&gt;&#xA;&lt;p&gt;In contrast to moving straight forward, busily publishing results, as cogs in the science machine, accumulating papers and citations, drifters and roamers love archaeology, want to know it better, and want to explore its different ambiences, settings and atmospheres. Drifters and roamers are inspired by less visited and trodden paths, fascinated by margins and unruly edges, by lost and abandoned places.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Policy</title>
-      <link>https://dmlekuz.github.io/drift/policy/</link>
+      <link>http://localhost:1313/drift/policy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://dmlekuz.github.io/drift/policy/</guid>
+      <guid>http://localhost:1313/drift/policy/</guid>
       <description>&lt;p&gt;&lt;em&gt;Drift: as journal of romings in the margins of archaeology&lt;/em&gt; is independednt, free,  global and open journal that encourages free exploration of ideas, permitting writing in a conversational, introspective style that doesn’t easily fit elsewhere.&lt;/p&gt;&#xA;&lt;p&gt;Drifts and roams are short papers, experimental, speculative, reflexive essays and works, reflections, interventions, provocations, and situations; other media is welcome, publishing mediums (online) permitting.&lt;/p&gt;&#xA;&lt;p&gt;Reflection and reference are good and necessary; acknowledging and greeting others is cordial; formal citations are not required.&lt;/p&gt;</description>
     </item>
   </channel>
