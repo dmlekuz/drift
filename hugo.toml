@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Drift: a journal of roamings in the margins of archaeology'
 theme = 'ananke'
 resourceDir = "../resources"
-canonifyURLs = true
+#canonifyURLs = true
 # relativeURLs = true
 copyright = "Drift is an open access journal. ISSN 1363-5387. DOI: 10.11141/issn.1363-5387. Email: drift at drift.org."
 
