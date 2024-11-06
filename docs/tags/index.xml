@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Drift: a journal of roamings in the margins of archaeology</title>
-    <link>https://0a6419a5.drift-journal.pages.dev/tags/</link>
+    <link>http://localhost:1313/drift/tags/</link>
     <description>Recent content in Tags on Drift: a journal of roamings in the margins of archaeology</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Drift is an open access journal. ISSN 1363-5387. DOI: 10.11141/issn.1363-5387. Email: drift at drift.org.</copyright>
     <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://0a6419a5.drift-journal.pages.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/drift/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Issue 1</title>
-      <link>https://0a6419a5.drift-journal.pages.dev/tags/issue-1/</link>
+      <link>http://localhost:1313/drift/tags/issue-1/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://0a6419a5.drift-journal.pages.dev/tags/issue-1/</guid>
+      <guid>http://localhost:1313/drift/tags/issue-1/</guid>
       <description></description>
     </item>
     <item>
       <title>Papers</title>
-      <link>https://0a6419a5.drift-journal.pages.dev/tags/papers/</link>
+      <link>http://localhost:1313/drift/tags/papers/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://0a6419a5.drift-journal.pages.dev/tags/papers/</guid>
+      <guid>http://localhost:1313/drift/tags/papers/</guid>
       <description></description>
     </item>
   </channel>
