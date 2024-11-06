@@ -2,58 +2,58 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/drift/papers/edge_discourse/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/papers/edge_discourse/</loc>
     <lastmod>2024-11-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/drift/papers/technical_symbolic/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/papers/technical_symbolic/</loc>
     <lastmod>2024-11-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/drift/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/</loc>
     <lastmod>2024-11-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/drift/papers/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/papers/</loc>
     <lastmod>2024-11-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/drift/tags/issue-1/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/tags/issue-1/</loc>
     <lastmod>2024-11-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/drift/tags/papers/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/tags/papers/</loc>
     <lastmod>2024-11-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/drift/tags/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/tags/</loc>
     <lastmod>2024-11-02T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/drift/editorial/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/editorial/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/drift/categories/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/categories/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/drift/authors/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/authors/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/drift/manifesto/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/manifesto/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>http://localhost:1313/drift/policy/</loc>
+    <loc>https://0a6419a5.drift-journal.pages.dev/policy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
