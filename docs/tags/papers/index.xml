@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Papers on Drift: a journal of roamings in the margins of archaeology</title>
-    <link>https://0a6419a5.drift-journal.pages.dev/tags/papers/</link>
+    <link>https://dmlekuz.github.io/drift/tags/papers/</link>
     <description>Recent content in Papers on Drift: a journal of roamings in the margins of archaeology</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Drift is an open access journal. ISSN 1363-5387. DOI: 10.11141/issn.1363-5387. Email: drift at drift.org.</copyright>
     <lastBuildDate>Sat, 02 Nov 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://0a6419a5.drift-journal.pages.dev/tags/papers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dmlekuz.github.io/drift/tags/papers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>At the Edge of Discourse: An essay on the subjectivity in landscape</title>
-      <link>https://0a6419a5.drift-journal.pages.dev/papers/edge_discourse/</link>
+      <link>https://dmlekuz.github.io/drift/papers/edge_discourse/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://0a6419a5.drift-journal.pages.dev/papers/edge_discourse/</guid>
+      <guid>https://dmlekuz.github.io/drift/papers/edge_discourse/</guid>
       <description>&lt;p&gt;The landscape is something that relaltional to the subject inhabiting it. My exploration of this relation is heavily influenced by Lacanaian psychoanalysis. Psychoanalysis can be defined as a discipline that provides basic coordinates on subjects’ relation to the Other, to some outside structure. Lacanian’s point of departure is that humans are speaking beings. This makes us alienated from the world because our relation to the world and others is mediated by language. Thus, humans inhabit the landscape as embodied but also as speaking and thinking subjects.&#xA;Lacan sees the subject’s relation to the world through three interlocking registers: Imaginary, Symbolic and Real.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Technical is symbolic</title>
-      <link>https://0a6419a5.drift-journal.pages.dev/papers/technical_symbolic/</link>
+      <link>https://dmlekuz.github.io/drift/papers/technical_symbolic/</link>
       <pubDate>Sat, 02 Nov 2024 00:00:00 +0000</pubDate>
-      <guid>https://0a6419a5.drift-journal.pages.dev/papers/technical_symbolic/</guid>
+      <guid>https://dmlekuz.github.io/drift/papers/technical_symbolic/</guid>
       <description>&lt;p&gt;A new focus on scientific methods, quantitative modelling, and Big Data, which characterise the “third scientific revolution” in archaeology (Kristiansen 2014), has expanded the boundaries of what we humans can ever know about the past.&lt;/p&gt;&#xA;&lt;p&gt;However, aDNA analyses, Big Data, and evolutionary models reduce humans to either genes, numbers, or simply another animal species. What makes humans specific and archaeology a unique discipline (rather than, say, palaeontology) is a certain excess, a surplus that we humans have and cannot be studied by scientific methods. Language.&lt;/p&gt;</description>
     </item>
   </channel>

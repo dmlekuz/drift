@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Drift: a journal of roamings in the margins of archaeology</title>
-    <link>https://0a6419a5.drift-journal.pages.dev/categories/</link>
+    <link>https://dmlekuz.github.io/drift/categories/</link>
     <description>Recent content in Categories on Drift: a journal of roamings in the margins of archaeology</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Drift is an open access journal. ISSN 1363-5387. DOI: 10.11141/issn.1363-5387. Email: drift at drift.org.</copyright>
-    <atom:link href="https://0a6419a5.drift-journal.pages.dev/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dmlekuz.github.io/drift/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
