@@ -1,4 +1,4 @@
-baseURL = 'https://dmlekuz.github.io/drift/'
+# baseURL = 'https://dmlekuz.github.io/drift/'
 languageCode = 'en-us'
 title = 'Drift: a journal of roamings in the margins of archaeology'
 theme = 'ananke'
