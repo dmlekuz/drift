@@ -8,6 +8,7 @@ resourceDir = "../resources"
 #canonifyURLs = true
 relativeURLs = true
 copyright = "Drift is an open access journal. ISSN XXXX-XXXX. DOI: XX.XXXXX/issn.XXXX-XXXX. Email: drift at drift.org."
+ featured_image = "/images/roam_background.png"
 
 publishDir = "docs"
 
