@@ -3,7 +3,7 @@ Title: "Manifesto"
 Description: "Drift is a journal of roamings in the margins of archaeology."
 menu:
   main:
-    weight: 1
+    weight: 10
 ---
 
 
