@@ -6,8 +6,8 @@ title = 'Drift: a journal of roamings in the margins of archaeology'
 theme = 'ananke'
 resourceDir = "../resources"
 #canonifyURLs = true
- relativeURLs = true
-copyright = "Drift is an open access journal. ISSN 1363-5387. DOI: 10.11141/issn.1363-5387. Email: drift at drift.org."
+relativeURLs = true
+copyright = "Drift is an open access journal. ISSN XXXX-XXXX. DOI: XX.XXXXX/issn.XXXX-XXXX. Email: drift at drift.org."
 
 publishDir = "docs"
 
@@ -16,12 +16,10 @@ SectionPagesMenu = "main"
 googleAnalytics = ""
 enableRobotsTXT = true
 
-
 [sitemap]
 changefreq = "monthly"
 priority = 0.5
 filename = "sitemap.xml"
-
 
 [params]
 text_color = ""
@@ -37,13 +35,10 @@ featured_image_class = "cover bg-top"
 cover_dimming_class = "bg-black-60"
 recent_posts_number = 3
 
-
 [params.ananke.social.follow]
 networks = [
   "bluesky"
-
 ]
 
 [params.ananke.social.bluesky]
 username = "dimitrij"
-

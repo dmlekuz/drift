@@ -37,7 +37,7 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>/editorial/</loc>
+    <loc>/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -50,10 +50,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>/manifesto/</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>/policy/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
