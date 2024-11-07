@@ -1,11 +1,10 @@
-#baseURL = 'https://0a6419a5.drift-journal.pages.dev/'
 baseURL = 'https://dmlekuz.github.io/drift/'
 #baseURL = '/'
 languageCode = 'en-us'
 title = 'Drift: a journal of roamings in the margins of archaeology'
-theme = 'ananke'
-#resourceDir = "../resources"
-canonifyURLs = true
+theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+resourceDir = "../resources"
+#canonifyURLs = true
 #relativeURLs = true
 copyright = "Drift is an open access journal. ISSN XXXX-XXXX. DOI: XX.XXXXX/issn.XXXX-XXXX. Email: drift at drift.org."
  #featured_image = "/images/roam_background.png"
