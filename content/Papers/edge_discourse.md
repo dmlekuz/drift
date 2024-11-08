@@ -15,7 +15,7 @@ weight: 1
 
 
 
-The landscape is something that relaltional to the subject inhabiting it. My exploration of this relation is heavily influenced by Lacanaian psychoanalysis. Psychoanalysis can be defined as a discipline that provides basic coordinates on subjects’ relation to the Other, to some outside structure. Lacanian’s point of departure is that humans are speaking beings. This makes us alienated from the world because our relation to the world and others is mediated by language. Thus, humans inhabit the landscape as embodied but also as speaking and thinking subjects. 
+The landscape is something that forms through relations to a subject inhabiting it. My exploration of this relation is heavily influenced by Lacanaian psychoanalysis. Psychoanalysis can be defined as a discipline that provides basic coordinates on subjects’ relation to the Other, to some outside structure. Lacanian’s point of departure is that humans are speaking beings. This makes us alienated from the world because our relation to the world and others is mediated by language. Thus, humans inhabit the landscape as embodied but also as speaking and thinking subjects. 
 Lacan sees the subject’s relation to the world through three interlocking registers: Imaginary, Symbolic and Real.
 
 Imaginary captures most of what is experienced as normal, conscious reality. The Imaginary is primarily comprised of perceived images. Lacan presents the Imaginary as a necessary fiction that allows the psychoanalytic subject to live in and engage with their surroundings.
