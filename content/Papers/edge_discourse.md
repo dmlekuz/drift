@@ -10,6 +10,7 @@ pubdate: "2024-11-02"
 outputs: 
 doi: "192/hp.1"
 weight: 1
+featured_image: '/images/cave.png'
 ---
 
 
